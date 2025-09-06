@@ -1,19 +1,15 @@
-<!-- ===== Dark-Fantasy Banner (локальный SVG) ===== -->
+<!-- ===== Dark-Fantasy: Animated Portal ===== -->
 <p align="center">
-  <img src="assets/dark-fantasy-banner.svg" width="100%" alt="dark fantasy banner">
+  <img src="assets/portal.svg" width="100%" alt="dark portal">
 </p>
 
-<!-- ===== Иконки технологий (только лого) ===== -->
+<!-- ===== Icons only ===== -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,fastapi,postgres,docker&theme=dark" />
 </p>
 
-<!-- Лёгкая «мистическая» полоска-разделитель -->
+<!-- ===== Most Used Languages ===== -->
 <p align="center">
-  <img src="assets/dark-fantasy-divider.svg" width="70%" alt="divider">
-</p>
-
-<!-- (опционально) змейка с коммитами, если оставлял workflow -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meytyy/meytyy/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=meytyy&layout=compact&hide_border=true&theme=radical&langs_count=8" />
 </p>

@@ -37,7 +37,3 @@
 
 ---
 
-<!-- ===== Fun touch (snake commits) ===== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meytyy/meytyy/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>

@@ -1,1 +1,46 @@
-<!-- ===== About me ===== --> <h2 align="center">👋 Hey! I'm Alex</h2> <p align="center"> 💻 self-taught developer • ⚡ exploring Python, JS/TS, React, FastAPI • 🚀 building pet-projects and learning every day </p> --- <!-- ===== Dark-Fantasy: Animated Portal ===== --> <p align="center"> <img src="assets/portal.svg" width="100%" alt="dark portal"> </p> <!-- ===== Tech stack icons ===== --> <p align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,fastapi,postgres,docker&theme=dark" /> </p> --- <!-- ===== Most Used Languages ===== --> <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meytyy&layout=compact&hide_border=true&theme=radical&langs_count=8" /> </p> <!-- ===== Streak stats ===== --> <p align="center"> <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=meytyy&theme=radical&hide_border=true" /> </p> <!-- ===== Activity Graph ===== --> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=meytyy&bg_color=0d1117&color=ffffff&line=8b5cf6&point=f472b6&area=true&hide_border=true" /> </p> ---
+<h1 align="center">Alex</h1>
+<p align="center">
+  Developer focused on building clean, useful products.
+</p>
+
+<p align="center">
+  Python • TypeScript • React • FastAPI • Docker
+</p>
+
+---
+
+### About
+
+I build small products, tools, and experiments for the web.
+
+- focused on Python and TypeScript
+- interested in React, FastAPI, automation, and product design
+- learning by shipping real projects
+
+---
+
+### Featured Projects
+
+#### [Quizzz](https://github.com/meytyy/quizzz)
+A quiz platform for creating and running interactive quizzes.
+
+**Stack:** React, TypeScript, web app
+
+#### [Focus Fox](https://github.com/meytyy/focus-fox)
+A focus-oriented productivity project with a clean UX approach.
+
+**Stack:** Frontend, productivity, minimal design
+
+---
+
+### Tech
+
+```txt
+Python
+TypeScript
+JavaScript
+React
+FastAPI
+Docker
+PostgreSQL
+Git

@@ -1,47 +1,34 @@
-<h1 align="center">Alex</h1>
-<p align="center">
-  Developer focused on building clean, useful products.
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="Alex — developer focused on clean, useful products" src="./assets/header-dark.svg" width="100%">
+</picture>
 
-<p align="center">
-  Python • TypeScript • React • FastAPI • Docker
-</p>
+<br>
 
----
+I build small products, tools, and experiments for the web — mostly in **Python** and **TypeScript**.
+Into React, FastAPI, automation and product design. Learning by shipping.
 
-### About
+<br>
 
-I build small products, tools, and experiments for the web.
+### ◆ Building
 
-- focused on Python and TypeScript
-- interested in React, FastAPI, automation, and product design
-- learning by shipping real projects
-- I am the creator and owner of @FileConvert_robot — a file conversion bot in telegram.
+| | | |
+|:--|:--|:--|
+| **[FileConvert_robot](https://t.me/FileConvert_robot)** | file conversion bot for Telegram | `python` `bot` |
+| **[Quizzz](https://github.com/meytyy/quizloom)** | create and run interactive quizzes | `react` `typescript` |
+| **[Focus Fox](https://github.com/meytyy)** | focus-first productivity, minimal UX | `frontend` `design` |
 
----
+<br>
 
-### Featured Projects
+### ◆ Stack
 
-#### [Quizzz](https://github.com/meytyy/quizzz)
-A quiz platform for creating and running interactive quizzes.
+<a href="#"><img src="https://skillicons.dev/icons?i=py,ts,js,react,fastapi,docker,postgres,git&theme=dark" alt="stack" height="40"></a>
 
-**Stack:** React, TypeScript, web app
+<br>
 
-#### [Focus Fox](https://github.com/meytyy/focus-fox)
-A focus-oriented productivity project with a clean UX approach.
-
-**Stack:** Frontend, productivity, minimal design
-
----
-
-### Tech
-
-```txt
-Python
-TypeScript
-JavaScript
-React
-FastAPI
-Docker
-PostgreSQL
-Git
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meytyy/meytyy/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meytyy/meytyy/output/snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/meytyy/meytyy/output/snake.svg" width="100%">
+</picture>

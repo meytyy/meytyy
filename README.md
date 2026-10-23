@@ -13,11 +13,14 @@ Into React, FastAPI, automation and product design. Learning by shipping.
 
 ### ◆ Building
 
-| | | |
-|:--|:--|:--|
-| **[FileConvert_robot](https://t.me/FileConvert_robot)** | file conversion bot for Telegram | `python` `bot` |
-| **[Quizzz](https://github.com/meytyy/quizloom)** | create and run interactive quizzes | `react` `typescript` |
-| **[Focus Fox](https://github.com/meytyy)** | focus-first productivity, minimal UX | `frontend` `design` |
+**[FileConvert_robot](https://t.me/FileConvert_robot)** — file conversion bot for Telegram<br>
+<sub>`python` `bot`</sub>
+
+**[Quizzz](https://github.com/meytyy/quizloom)** — create and run interactive quizzes<br>
+<sub>`react` `typescript`</sub>
+
+**[Focus Fox](https://github.com/meytyy/focus-fox)** — calm focus timer that pauses distracting sites<br>
+<sub>`browser-extension` `javascript`</sub>
 
 <br>
 

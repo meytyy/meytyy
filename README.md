@@ -26,7 +26,7 @@ Into React, FastAPI, automation and product design. Learning by shipping.
 
 ### ◆ Stack
 
-<a href="#"><img src="https://skillicons.dev/icons?i=py,ts,js,react,fastapi,docker,postgres,git&theme=dark" alt="stack" height="40"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=py,ts,js,react,fastapi,docker,postgres,git,rust&theme=dark" alt="stack" height="40"></a>
 
 <br>
 
